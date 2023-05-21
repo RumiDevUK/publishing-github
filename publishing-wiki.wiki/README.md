@@ -1,4 +1,4 @@
-[Home](README.md)
+[Home](README.md) | [Cast](Cast.md) | [Collectibles](Collectibles.md)
 
 
 # Intro(Romi Sub-heading and link)
